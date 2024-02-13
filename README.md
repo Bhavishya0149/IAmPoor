@@ -1,1 +1,1 @@
-# DesignApp
+# IAmPoor - IAmRich's counterpart.
